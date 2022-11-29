@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "testSticker",
-    "slug": "testSticker",
+    "name": "FernTheLeopard",
+    "slug": "ferntheleopard",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#25292e"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "23287671-33e6-4447-b408-7d5a545bb623"
+      }
+    },
+    "owner": "klabianco"
   }
 }
